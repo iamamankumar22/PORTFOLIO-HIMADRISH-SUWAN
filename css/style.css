@@ -241,10 +241,12 @@ ul.wmuSliderPagination {
 	padding: 25px 0;
 }
 .services-sectiongrids {
+	margin-left: 150px;
 	text-align: center;
 }
 .services-grid img{
 	border-radius:9%;
+
 	}
 .services-grid h4 {
 	font-size: 17px;
@@ -252,11 +254,6 @@ ul.wmuSliderPagination {
 	padding: 15px 0;
 	color: #2a404e;
 	text-transform: uppercase;
-}
-.services-grid p {
-	font-size: 15px;
-	color: #7e7e7e;
-	padding: 0 22px;
 }
 .arrow1 {
 	padding-top: 30px;
