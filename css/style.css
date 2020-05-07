@@ -39,6 +39,7 @@ body{
 	
 }
 
+
 .carousel
 {
 	position: relative;
@@ -48,25 +49,21 @@ body{
 	width: 1550px;
 }
 
-
 .header-top {
-	padding-top: 3em;
-	position: absolute;
-	width: 85%;
-	z-index: 999;
-	background: none;
-	border: 0;
-	border-radius: 0;
+	padding-top: 1.7em;
+	padding-bottom: 1.7em;
 }
 .logo{
 	float:left;
-	font-size:25px;
-	font-weight: bold;
+	font-size:27px;
+	font-weight: initial;
 	margin-top:-10px;
+
 	
 }
 .logo a{
-	color:#fff;
+	color:black;
+	
 	
 }
 .logo p{color:#fff; font-size:12px;}
@@ -75,11 +72,11 @@ body{
 }
 .top-menu ul li{
 	display: inline-block;
-	padding: 5px 15px 0px 15px;
+	padding: 5px 15px 0px 25px;
 }
 .top-menu ul li a{
 	font-size: 1.1em;
-	color: #fff;
+	color: black;
 	text-decoration: none;
 	text-transform: uppercase;
 	
