@@ -1,9 +1,4 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 body a{
     transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -238,17 +233,18 @@ ul.wmuSliderPagination {
 	padding: 25px 0;
 }
 .services-sectiongrids {
-	margin-left: 150px;
+	margin-left: 200px;
 	text-align: center;
 }
 .services-grid img{
-	border-radius:9%;
+
+	padding-left: 100px;
 
 	}
+
 .services-grid h4 {
 	font-size: 17px;
 	font-weight: bold;
-	padding: 15px 0;
 	color: #2a404e;
 	text-transform: uppercase;
 }
